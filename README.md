@@ -47,9 +47,9 @@ El archivo contiene la siguiente linea
 ~~~
 *.log
 ~~~
-![alt text](image.png)
+![](/images/image.png)
+
 Al preparar archivos con `git add .`debe preparar todos los archivos excepto los que contengan la extensión `.log`.
 
-![alt text](image-1.png)
-
+![](/images/image-1.png)
 Cuando se suban los cambios, el archivo .debug.log no debe estar en el repositorio remoto.
